@@ -1,0 +1,1 @@
+alert("Proyecto formativo Automatización de restourantes");
